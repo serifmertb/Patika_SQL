@@ -1,1 +1,1 @@
-SELECT * FROM actor WHERE first_name !~* 'b%';
+SELECT * FROM actor WHERE first_name !~* 'c%';
